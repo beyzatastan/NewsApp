@@ -2,5 +2,8 @@
 <img width="200" alt="Ekran Resmi 2024-03-11 02 19 30" src="https://github.com/beyzatastan/NewsApp/assets/114664291/065f36ad-3115-4ffb-9d23-575692e1892b">
 
 
-https://github.com/beyzatastan/NewsApp/assets/114664291/411eaa44-d67b-4aaf-8929-c1d161ffc3a5
+
+
+https://github.com/beyzatastan/NewsApp/assets/114664291/60d03295-88c9-41ce-9ddb-215bc9dc7b90
+
 
